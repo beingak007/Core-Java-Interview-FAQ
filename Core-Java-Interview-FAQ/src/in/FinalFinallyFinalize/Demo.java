@@ -6,7 +6,7 @@ package in.FinalFinallyFinalize;
 /*
 Final:- Making things constant  we cannot reasign thats value
 
-Finally Block:- its a block in exception handling this block always  be execcute
+Finally Block:- its a block in exception handling this block always  be exeLkcute
 
 Finalize():- its method present in object class  when this object not used then this method call  system.gc();
 */
