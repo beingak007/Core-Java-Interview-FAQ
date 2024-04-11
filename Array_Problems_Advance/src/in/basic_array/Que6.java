@@ -1,3 +1,4 @@
+
 package in.basic_array;
 //WAP to get the Max and Min in an array
 public class Que6 {
