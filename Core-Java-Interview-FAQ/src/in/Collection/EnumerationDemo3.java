@@ -1,14 +1,12 @@
-package in.collections;
-enum kotter
+enum Beer
 {
     KF,KO,RC,FO;
 }
 class EnumerationDemo3
 {
     public static void main(String[] arr)
-    
     {
-        kotter b=kotter.KF;
+        Beer b=Beer.KF;
         switch(b)
         {
             case KF:
