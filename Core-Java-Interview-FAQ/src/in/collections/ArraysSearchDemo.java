@@ -17,6 +17,8 @@ public class ArraysSearchDemo
         Arrays.sort(s);
         System.out.println(Arrays.binarySearch(s,"Z"));
         System.out.println(Arrays.binarySearch(s,"S"));
+        
+        System.out.println("####################################");
 
         Arrays.sort(s,new MyComparator());
         System.out.println(Arrays.binarySearch(s,"Z",new MyComparator()));

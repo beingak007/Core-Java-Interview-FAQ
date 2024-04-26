@@ -12,7 +12,6 @@ public class TestApp {
 				System.out.println("Age is Valid");
 			}
 		} catch (AgeInvalid e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

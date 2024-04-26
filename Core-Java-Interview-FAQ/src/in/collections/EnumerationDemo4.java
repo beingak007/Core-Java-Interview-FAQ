@@ -1,4 +1,5 @@
 package in.collections;
+
 enum Beer
 {
     KF,KO,RC,FO;
